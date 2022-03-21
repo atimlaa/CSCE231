@@ -9,3 +9,7 @@ lab2 = integerLab
 DataLab = bit manipulation
 
 SSBC = warup | poll-calculator 
+
+```
+P.S. I would not be responsible if someone copies the codebase from this repo for their assignment if any case anything matches.
+```
