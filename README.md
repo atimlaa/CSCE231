@@ -1,5 +1,7 @@
 # CSCE231
 
+## These are the assignments I completed for my CS Engineering class
+
 lab 0 = poker
 
 lab 1 = quine | processTrace
